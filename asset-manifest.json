@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/typescript-train/static/js/main.903bdd40.js",
+    "index.html": "/typescript-train/index.html",
+    "main.903bdd40.js.map": "/typescript-train/static/js/main.903bdd40.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.903bdd40.js"
+  ]
+}
